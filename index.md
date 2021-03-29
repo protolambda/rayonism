@@ -46,7 +46,7 @@ is to build a version of Optimism with shard data. This may spin out as post-hac
 It's the hackathon vibe, acceleration, and involvement we are looking for!
 We do not intend to apply for hackathon prices with Rayonism.
 
-However, others building things on top of our work fully qualify as hacker, get involved!
+However, others building things on top of our work fully qualify as Hacker, get involved!
 
 If you hack solely on Rayonism, feel free to still register as Hacker,
 everyone scaling Ethereum should be welcome at the hackathon.
