@@ -17,8 +17,8 @@ We are ambitious, and may implement some shortcuts to *ship*.
 
 - March 28: Initial Merge specs land in `dev` eth2.0-specs
 - March 29: Rayonism project starts
-- Early April: Initial Phase 1 refactor lands in eth2.0-specs, modularizing Sharding.
-- Early April: target for Eth2-Eth1 devnet following the Merge specs.
+- Early April: Initial Phase 1 refactor lands in eth2.0-specs, modularizing Sharding
+- Early April: target for Eth2-Eth1 devnet following the Merge specs
 - April 16: [ETHGlobal Scaling Hackathon](https://scaling.ethglobal.co/) starts
 - Mid April: Sharding minimal viable specs target (No Custody Game or Data Availability Sampling)
 - During hackathon: develop sharding functionality on top of participating Eth2 clients
@@ -70,7 +70,7 @@ From there, we maintain the so called "Meta specs": a fork of the eth2.0-specs t
 - Extend with an experimental simplified version of Sharding 
 - Coordinate around misc. Hackathon requirements and documentation
 
-The meta specs are in active R&D and unstable till the hackathon starts.
+The meta specs are in active R&D and unstable until the hackathon starts.
 When started, focus will change from spec work to implementation work.
 
 #### L2 Help
