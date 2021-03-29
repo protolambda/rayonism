@@ -87,8 +87,12 @@ When started, focus will change from spec work to implementation work.
 
 #### L2 Help
 
-On the very very bleeding edge we are re-engineering Optimism to utilize shard data-availability, as a stretch-goal when/if we get some form of Sharding done.
-If you are familiar with Optimistic Rollups, reach out and we can prepare updated Optimism specs for a (probably post-hackathon) L2 deployment.  
+On the very very bleeding edge we are experimenting with L2 rollups to utilize shard data-availability, as a stretch-goal when/if we get some form of Sharding done.
+
+There is an idea to re-engineer the Optimism data-transport-layer repo to pull shard data instead of event logs, 
+along with other tweaks, which may enable a (probably post-hackathon) Optimism deployment.
+
+If you are a L2 dev with rollup or other relevant experience, please reach out and we can see when/how your preferred L2 can start using testnet shard data!
 
 ### Who is participating?
 
