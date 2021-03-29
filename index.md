@@ -21,8 +21,9 @@ We are ambitious, and may implement some shortcuts to *ship*.
 - Early April: target for Eth2-Eth1 devnet following the Merge specs
 - April 16: [ETHGlobal Scaling Hackathon](https://scaling.ethglobal.co/) starts
 - Mid April: Sharding minimal viable specs target (No Custody Game or Data Availability Sampling)
-- During hackathon: develop merge functionality on top of participating Eth1 clients
-- During hackathon: develop sharding functionality on top of participating Eth2 clients
+- During hackathon:
+  - develop merge functionality on top of participating Eth1 and Eth2 clients
+  - develop sharding functionality on top of participating Eth2 clients, enable KZG in EVM on Eth1
 - Stretch goal: Initial L2, Optimism-Eth2 prototype
 - May 14: Hackathon ends
 - Post-hackathon: launch public trial testnet with Merge and Sharding
@@ -33,7 +34,7 @@ We are ambitious, and may implement some shortcuts to *ship*.
 
 ### What's Rayonism?
 
-A project to that takes the research and engineering efforts of the Eth1-Eth2 Merge and Sharding,
+A project that takes the research and engineering efforts of the Eth1-Eth2 Merge and Sharding,
 and builds a testnets around the ETHGlobal Scaling Hackathon.
 
 The name is taken from an early abstract art movement with sharding and beacon motives.
@@ -41,15 +42,15 @@ The name is taken from an early abstract art movement with sharding and beacon m
 And yes, it's a reference to Optimism. The *stretch-goal* (if you didn't think Merge and Sharding are ambitious enough!)
 is to build a version of Optimism with shard data. This may spin out as post-hackathon effort.
 
-### How does Rayonism participate in the hackathon?
+### Participate in the hackathon?
 
 It's the hackathon vibe, acceleration, and involvement we are looking for!
-We do not intend to apply for hackathon prices with Rayonism.
+Rayonism as a project does not intend to apply for hackathon prizes.
 
 However, others building things on top of our work fully qualify as Hacker, get involved!
 
-If you hack solely on Rayonism, feel free to still register as Hacker,
-everyone scaling Ethereum should be welcome at the hackathon.
+If you hack solely on Rayonism, feel free to still register as Hacker, your work may not be eligible,
+but everyone scaling Ethereum should be welcome at the hackathon.
 
 ### How can I help?
 
