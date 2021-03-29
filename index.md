@@ -21,6 +21,7 @@ We are ambitious, and may implement some shortcuts to *ship*.
 - Early April: target for Eth2-Eth1 devnet following the Merge specs
 - April 16: [ETHGlobal Scaling Hackathon](https://scaling.ethglobal.co/) starts
 - Mid April: Sharding minimal viable specs target (No Custody Game or Data Availability Sampling)
+- During hackathon: develop merge functionality on top of participating Eth1 clients
 - During hackathon: develop sharding functionality on top of participating Eth2 clients
 - Stretch goal: Initial L2, Optimism-Eth2 prototype
 - May 14: Hackathon ends
@@ -85,5 +86,6 @@ This is collaborative effort between contributors from many teams:
 - EF Research team
 - Teku, and the Merge-fork of Teku
 - Geth, the Catalyst fork
-- Lighthouse and Prysm, starting with Merge efforts.
+- Lighthouse and Prysm, starting with Merge efforts
+- Eth1 clients, developing Merge functionality
 - You?!
