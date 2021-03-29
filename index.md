@@ -41,6 +41,16 @@ The name is taken from an early abstract art movement with sharding and beacon m
 And yes, it's a reference to Optimism. The *stretch-goal* (if you didn't think Merge and Sharding are ambitious enough!)
 is to build a version of Optimism with shard data. This may spin out as post-hackathon effort.
 
+### How does Rayonism participate in the hackathon?
+
+It's the hackathon vibe, acceleration, and involvement we are looking for!
+We do not intend to apply for hackathon prices with Rayonism.
+
+However, others building things on top of our work fully qualify as hacker, get involved!
+
+If you hack solely on Rayonism, feel free to still register as Hacker,
+everyone scaling Ethereum should be welcome at the hackathon.
+
 ### How can I help?
 
 #### Non-technical help
